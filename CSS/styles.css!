@@ -1,0 +1,7 @@
+@charset "UTF-8";
+/* Variables */
+/* Código CSS nuevo */
+/* Código CSS anterior import */
+@import "./CSS/styles--anteriores.css";
+
+/*# sourceMappingURL=styles.css!.map */
